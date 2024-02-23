@@ -13,7 +13,7 @@ This script is comprised of the following sections:
 
 The module contains the following functions:
 
-    - CLASSNAME -- description
+    - trade_logic -- defines signal generation logic
 
 References:
     [1] https://zodiactrading.medium.com/harnessing-the-power-of-high-frequency-trading-algorithms-in-python-a-comprehensive-guide-97ff0cd125c2
